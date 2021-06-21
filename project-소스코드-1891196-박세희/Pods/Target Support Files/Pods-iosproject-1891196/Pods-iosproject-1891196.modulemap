@@ -1,6 +1,0 @@
-framework module Pods_iosproject_1891196 {
-  umbrella header "Pods-iosproject-1891196-umbrella.h"
-
-  export *
-  module * { export * }
-}
