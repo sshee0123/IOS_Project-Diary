@@ -14,7 +14,7 @@ To Do List 화면: 하루의 목표를 세울 수 있고, 달성한 목표는 �
 Diary 화면: 오늘의 하루를 대표하는 사진 한장과 글로 하루를 기억할 수 있다.
 
 ## 화면 
-### 1. 메인 달력 화면
+1. 메인 달력 화면
 <img width="179" alt="image" src="https://user-images.githubusercontent.com/55376366/161412725-10a53064-0fb9-4c16-97a1-7db15be921ca.png">
 <img width="180" alt="image" src="https://user-images.githubusercontent.com/55376366/161412729-3ec7a212-2217-439d-a434-0e1bd73b4ad8.png">
 2. 일정 화면
