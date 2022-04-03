@@ -22,7 +22,7 @@ Diary 화면: 오늘의 하루를 대표하는 사진 한장과 글로 하루를
 <img width="186" alt="image" src="https://user-images.githubusercontent.com/55376366/161412755-23485b22-86de-4248-a457-169eaada5d96.png">
 ### 3. To Do List 화면  
 <img width="169" alt="image" src="https://user-images.githubusercontent.com/55376366/161412790-ae48462c-b36b-417f-871e-d43c208737af.png">
-#### 4. Diary 화면  
+### 4. Diary 화면  
 <img width="158" alt="image" src="https://user-images.githubusercontent.com/55376366/161412799-f813203f-6361-4170-9c14-39266a36e891.png">
 <img width="162" alt="image" src="https://user-images.githubusercontent.com/55376366/161412805-3fef7630-6ac5-4b85-b5ce-741279f595aa.png">
 
