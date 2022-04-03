@@ -1,7 +1,9 @@
 # [ IOS Project ] 내 손에 하루
 
 ## 앱 개요 및 구조  
-스케줄을 관리할 수 있고, 하루의 목표를 설정하고 달성하는 플래너도 가능하며, 오늘 하루를 기록할 수 있는 개인 일기장이 있는 앱이다. ![image](https://user-images.githubusercontent.com/55376366/161412603-e562681f-cb5a-45f9-b5fe-54badecd02a5.png)
+스케줄을 관리할 수 있고, 하루의 목표를 설정하고 달성하는 플래너도 가능하며, 오늘 하루를 기록할 수 있는 개인 일기장이 있는 앱이다.
+<img width="377" alt="image" src="https://user-images.githubusercontent.com/55376366/161412687-045f2889-8323-44bd-aa32-8b82873df1e9.png">
+
 
 ## 주요 기능
 달력 화면: 오늘의 날짜와 일정을 알 수 있다.
